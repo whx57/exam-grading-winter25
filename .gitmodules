@@ -1,3 +1,6 @@
 [submodule "exams"]
 	path = exams
-	url = https://github.com/whx57/exam
+	url = https://github.com/whx57/test_llm.git
+[submodule "learn-cxx"]
+	path = learn-cxx
+	url = https://github.com/whx57/learn-cxx.git
