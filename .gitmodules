@@ -4,3 +4,6 @@
 [submodule "learn-cxx"]
 	path = learn-cxx
 	url = https://github.com/whx57/learn-cxx.git
+[submodule "rustlings"]
+	path = rustlings
+	url = https://github.com/whx57/rust-rustlings.git
