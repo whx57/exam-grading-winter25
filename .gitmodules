@@ -10,3 +10,9 @@
 [submodule "learning-cxx"]
 	path = learning-cxx
 	url = https://github.com/whx57/learn-cxx.git
+[submodule "TinyInfiniTensor"]
+	path = TinyInfiniTensor
+	url = https://github.com/whx57/TinyInfiniTensor.git
+[submodule "learning-lm-rs"]
+	path = learning-lm-rs
+	url = https://github.com/whx57/learning-lm-rs.git
